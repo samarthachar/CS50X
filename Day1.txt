@@ -8,3 +8,5 @@ use an inanimate object to verbalise your thoughts to, and help debug
 cs - study of information
 
 binary system: base-2 unlike regular base-10 or decimal system
+
+different languages solve different problems or the same problem at different efficiency levels
