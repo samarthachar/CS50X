@@ -11,6 +11,8 @@ binary system: base-2 unlike regular base-10 or decimal system
 
 different languages solve different problems or the same problem at different efficiency levels
 
+pseudocode: An english-like or human-like formulation of step by step instructions.
+
 
 https://cs50.harvard.edu/x/notes/0/
 
